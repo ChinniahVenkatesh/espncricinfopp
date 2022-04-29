@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-22T11:32:43 IST" name="Default suite" finished-at="2022-04-22T11:32:57 IST" duration-ms="13505">
+    <groups>
+    </groups>
+    <test started-at="2022-04-22T11:32:43 IST" name="Default test" finished-at="2022-04-22T11:32:57 IST" duration-ms="13505">
+      <class name="ESPNcricinfo.ESPNcricinfoprod.Home_page">
+        <test-method signature="test()[pri:0, instance:ESPNcricinfo.ESPNcricinfoprod.Home_page@3c19aaa5]" started-at="2022-04-22T11:32:43 IST" name="test" finished-at="2022-04-22T11:32:57 IST" duration-ms="13472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- ESPNcricinfo.ESPNcricinfoprod.Home_page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
