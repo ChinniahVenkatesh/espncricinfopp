@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 50.02 sec <<< FAILURE!
+HSB(cricinfoqatest.automationtesting.CricinfoHomeTest)  Time elapsed: 48.443 sec  <<< FAILURE!
+java.lang.IllegalStateException: connect in progress
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.setRequestMethod(HttpURLConnection.java:596)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.setRequestMethod(HttpsURLConnectionImpl.java:344)
+	at cricinfoqatest.automationtesting.CricinfoHomeTest.HSB(CricinfoHomeTest.java:37)
+
