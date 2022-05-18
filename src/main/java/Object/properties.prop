@@ -1,0 +1,3 @@
+browser = chrome
+domainUrl = https://pp.espncricinfo.com/?hsci=true
+prodUrl = https://www.espncricinfo.com/

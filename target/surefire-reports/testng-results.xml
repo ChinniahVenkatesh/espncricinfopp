@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<img src='C:\Users\VENKATEC\espncricinfo\testingqa\Screenshot\streakinfo3.png"'/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='C:\Users\VENKATEC\espncricinfo\testingqa\Screenshot\streakinfo6.png"'/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='C:\Users\VENKATEC\espncricinfo\testingqa\Screenshot\streakinfo9.png"'/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='C:\Users\VENKATEC\espncricinfo\testingqa\Screenshot\streakgame.png'/>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-13T09:38:34 IST" name="espncricinfo.testing.streakTest" finished-at="2022-05-13T09:42:52 IST" duration-ms="258266">
+    <groups>
+    </groups>
+    <test started-at="2022-05-13T09:38:34 IST" name="Command line test" finished-at="2022-05-13T09:42:52 IST" duration-ms="258266">
+      <class name="espncricinfo.testing.streakTest">
+        <test-method signature="browserIniziate()[pri:0, instance:espncricinfo.testing.streakTest@63f259c3]" started-at="2022-05-13T09:38:34 IST" name="browserIniziate" finished-at="2022-05-13T09:38:44 IST" duration-ms="9891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIniziate -->
+        <test-method signature="navigateStreakurl()[pri:1, instance:espncricinfo.testing.streakTest@63f259c3]" started-at="2022-05-13T09:38:44 IST" name="navigateStreakurl" finished-at="2022-05-13T09:39:04 IST" duration-ms="19998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateStreakurl -->
+        <test-method signature="playGame()[pri:2, instance:espncricinfo.testing.streakTest@63f259c3]" started-at="2022-05-13T09:39:04 IST" name="playGame" finished-at="2022-05-13T09:42:39 IST" duration-ms="215101" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='C:\Users\VENKATEC\espncricinfo\testingqa\Screenshot\streakinfo3.png"'/>]]>
+            </line>
+            <line>
+              <![CDATA[<img src='C:\Users\VENKATEC\espncricinfo\testingqa\Screenshot\streakinfo6.png"'/>]]>
+            </line>
+            <line>
+              <![CDATA[<img src='C:\Users\VENKATEC\espncricinfo\testingqa\Screenshot\streakinfo9.png"'/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- playGame -->
+        <test-method signature="statusinfo()[pri:3, instance:espncricinfo.testing.streakTest@63f259c3]" started-at="2022-05-13T09:42:39 IST" name="statusinfo" finished-at="2022-05-13T09:42:39 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusinfo -->
+        <test-method signature="todaysquiz()[pri:4, instance:espncricinfo.testing.streakTest@63f259c3]" started-at="2022-05-13T09:42:39 IST" name="todaysquiz" finished-at="2022-05-13T09:42:49 IST" duration-ms="10184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- todaysquiz -->
+        <test-method signature="gameresultcard()[pri:5, instance:espncricinfo.testing.streakTest@63f259c3]" started-at="2022-05-13T09:42:49 IST" name="gameresultcard" finished-at="2022-05-13T09:42:51 IST" duration-ms="1672" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='C:\Users\VENKATEC\espncricinfo\testingqa\Screenshot\streakgame.png'/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gameresultcard -->
+        <test-method signature="streakinfoText()[pri:6, instance:espncricinfo.testing.streakTest@63f259c3]" started-at="2022-05-13T09:42:51 IST" name="streakinfoText" finished-at="2022-05-13T09:42:52 IST" duration-ms="1240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streakinfoText -->
+      </class> <!-- espncricinfo.testing.streakTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- espncricinfo.testing.streakTest -->
+</testng-results>
